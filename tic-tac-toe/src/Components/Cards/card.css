@@ -1,0 +1,11 @@
+.Card{
+    border: 1px solid black;
+    padding: 1rem;
+    border-radius: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 120px;
+    height: 120px;
+    background-image: linear-gradient(to top, #4481eb 0%, #04befe 100%);
+}
